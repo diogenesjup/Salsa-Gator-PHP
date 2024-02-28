@@ -6,4 +6,4 @@ Esse é apenas um exemplo, adapte-o de acordo com a sua lógica ou regra de neg�
 ## Precisando de uma plataforma BET/Cassino?
 Conheça a plataforma BETWP https://fabricadeplugins.com.br/campanhas/plataforma-wpbet-wordpress/
 
-[![DEMONSTRAÇÃO](http://img.youtube.com/vi/MUdkCfyu2EI/0.jpg)](http://www.youtube.com/watch?v=MUdkCfyu2EI "DEMONSTRAÇÃO")
+
